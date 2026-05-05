@@ -88,3 +88,8 @@ Output: true
 **Algorithm Walkthrough:**
 1. Convert the integer to a string.
 2. Compare the string with its reverse to determine if it's a palindrome.
+
+
+
+** Author**
+arunchary
